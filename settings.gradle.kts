@@ -1,0 +1,1 @@
+rootProject.name = "ex_doc_to_plantuml"
